@@ -120,7 +120,7 @@ any(duplicated(sm[c("document_id", "parcel_number")]))  # false
 #   filter(n() == 1) %>%
 #   ungroup()
 
-# same document id per date (only relevant if you work with property_count = 1)
+# same document id per date (only relevant for property_count = 1)
 any(duplicated(sm[c("document_id", "date")]))  # false
 # if true
 # sm <- sm %>%
@@ -379,3 +379,4 @@ st_write(
   layer  = "sales_master",
   append = FALSE
 )
+
