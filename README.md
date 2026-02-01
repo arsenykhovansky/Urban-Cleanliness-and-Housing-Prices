@@ -3,7 +3,7 @@
 This repository contains the R code and prepared datasets used in my bachelor thesis in Economics.
 
 **Thesis:** *The Impact of Urban Cleanliness Initiatives on Housing Prices: Evidence from Philadelphia*  
-**Author:** Arseny Khovanskiy
+**Author:** Arseny Khovansky
 
 ---
 
